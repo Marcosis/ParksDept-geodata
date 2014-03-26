@@ -1,0 +1,23 @@
+JOIN_COUNT,XCOORD,YCOORD,ZCOORD,GPSDATE,MATERIALS,MATERIALS2,FREESTND,TYPE,ACTIVE,INSCRIPT,LIGHTS,PLAQUE,ARTSCULPT,HEIGHT,WIDTH,CONDITION,PHOTO,UPDTDBY,DATEUPDTD,COMMENTS,ID,IMGFOLDER,NAME,PARK,LAT,LNG
+1,2720864.05195,286932.715321,0.0,1999-08-19 00:00:00,stone,NA,1,free-standing,1,0,0,0,0,0,6,fair,1, , , ,1,fountains,Pennypack Creek Park,Pennypack Creek Park,40.0895484655,-75.0605637023
+1,2677205.48205,272601.937171,128.910446,1999-11-15 00:00:00,stone,NA,1,free-standing,0,0,0,0,0,2,3,fair,1, , , ,2,fountains,Wissahickon Valley Park,Wissahickon Valley Park,40.0537685301,-75.2180080073
+1,2685568.84718,251156.909283,158.576321,2000-02-16 00:00:00,metal,concrete,1,free-standing,0,0,0,0,0,2,15,poor,1, , , ,3,fountains,East Park,East Park,39.9942620776,-75.1903648835
+1,2686022.4584,246446.539045,0.0,2000-03-09 00:00:00,stone,metal,1,free-standing,0,1,0,1,1,15,8,poor,1, , , ,4,fountains,East Park,East Park,39.9813008688,-75.189234009
+1,2686103.9313,264002.81044,0.0,2000-03-23 00:00:00,metal,NA,1,wall,1,0,0,1,0,0,0,poor,1, , , ,5,fountains,Wissahickon Valley Park,Wissahickon Valley Park,40.0294682055,-75.1871255623
+1,2685553.80447,243816.100628,0.0,2000-03-29 00:00:00,metal,stone,1,free-standing,0,0,0,0,0,2,25,poor,1, , , ,6,fountains,East Park,East Park,39.9741195473,-75.1911435377
+1,2685738.08735,243437.856137,0.0,2000-03-30 00:00:00,metal,stone,1,free-standing,0,0,0,0,1,1,20,fair,1, , , ,7,fountains,East Park,East Park,39.9730677572,-75.1905594456
+1,2744058.43476,273600.550004,0.0,2000-04-06 00:00:00,metal,stone,1,free-standing,0,0,0,0,1,0,15,poor,1, , , ,8,fountains,Glen Foerd,Poquessing Creek Park,40.0509995867,-74.9792002875
+1,2688995.75294,217478.186697,0.0,2000-04-12 00:00:00,stone,concrete,1,free-standing,0,0,0,0,0,1,20,poor,1, , , ,9,fountains,Franklin D. Rooselvelt Park,Franklin D. Roosevelt Park,39.9015756107,-75.181634495
+1,2691492.18911,238095.678921,0.0,2000-05-12 00:00:00,stone,metal,1,free-standing,1,0,1,0,1,10,30,good,1, , , ,10,fountains,Logan Square,Logan Square,39.9579495054,-75.1705943811
+1,2680554.40052,247132.846012,0.0,2000-05-25 00:00:00,stone,metal,0,wall,0,1,0,1,1,12,4,poor,1, , , ,11,fountains,Horticulture Center,Horticulture Center,39.9836176273,-75.2086677017
+1,2683074.52093,277411.80065,0.0,2000-05-25 00:00:00,stone,NA,0,wall,0,1,0,1,1,5,12,fair,1, , , ,12,fountains,Wissahickon Valley Park,Wissahickon Valley Park,40.0665028648,-75.1965545783
+1,2691275.29807,234928.92053,0.0,2000-05-30 00:00:00,stone,metal,0,wall,1,0,1,0,1,5,10,fair,1, , , ,13,fountains,Rittenhouse Square,Rittenhouse Square,39.9492774446,-75.1716974977
+1,2696730.61185,234273.776974,0.0,2000-05-31 00:00:00,metal,stone,1,free-standing,0,0,0,0,0,2,30,poor,1, , , ,14,fountains,Washington Square,Washington Square,39.9470409659,-75.1523170505
+1,2689149.49632,240456.270973,0.0,2000-06-01 00:00:00,metal,stone,1,free-standing,1,1,1,0,0,6,40,poor,1, , , ,15,fountains,Eakins Oval,Benjamin Franklin Parkway,39.9646143867,-75.178702497
+1,2688907.45042,240188.653745,0.0,2000-06-01 00:00:00,metal,stone,1,free-standing,1,1,1,0,0,6,40,poor,1, , , ,16,fountains,Eakins Oval,Benjamin Franklin Parkway,39.9638993951,-75.1795934208
+1,2699243.77755,233586.496047,0.0,2000-06-08 00:00:00,metal,NA,1,free-standing,0,0,1,0,1,0,30,fair,1, , , ,17,fountains,Korean War Veteran's Memorial,I-95 Park,39.9449518604,-75.1434298245
+1,2697158.84689,237429.239655,0.0,2000-06-15 00:00:00,stone,NA,1,free-standing,0,0,0,0,0,3,20,poor,1, , , ,18,fountains,Franklin Square,Franklin Square,39.9556647724,-75.1504591327
+1,2692916.17194,236804.108296,0.0,2000-07-13 00:00:00,metal,NA,1,free-standing,1,0,0,0,0,4,30,fair,1, , , ,19,fountains,John F. Kennedy Plaza,John F. Kennedy Plaza,39.9542912289,-75.1656517647
+1,2687736.66981,241493.604576,0.0,2000-08-03 00:00:00,stone,metal,1,free-standing,1,1,1,0,1,0,0,fair,1, , , ,20,fountains,East Park,East Park,39.9675735924,-75.1836331371
+1,2688624.40213,240698.756774,0.0,2000-08-03 00:00:00,stone,metal,1,free-standing,1,1,1,0,1,0,0,fair,1, , , ,21,fountains,Art Museum,Art Museum,39.9653414354,-75.1805975768
+1,0.0,0.0,0.0,, , ,0, ,0,0,0,0,0,0,0, ,0, , , ,22, ,Water Works,Water Works,39.9654130187,-75.1832155336
