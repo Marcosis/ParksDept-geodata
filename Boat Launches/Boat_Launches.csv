@@ -1,17 +1,17 @@
 ID,STATE,COUNTY,NAME,LOCATION,PHONE,TYPE,FEES,NOTES,PARK_PROP,PARK,WATER_BODY,FISHING,DOCK,PARKING,MORE_INFO,LAT,LNG
-0,PA,Philadelphia,Fort Mifflin, , ,Ramp,No Fee,Not directly on PPR Property,N,N,Delaware River,N,Y,Y,http://www.phillyriverinfo.org/WICLibrary/Boating%20Website.pdf,207771.629,2681491.0582
-0,NJ,West Deptford,W. Deptford Munic. Ramp,End of Center Street,856-845-4004,Paved Ramp,No Fee, ,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,208636.158767,2689808.48841
-0,NJ,Gloucester,Riverwinds Point,Riverwinds Dr, ,No Ramp,No Fee, ,N,N,Delaware River,N,N,Y,http://fishandboat.com/watertrails/dela_tidal/tidal_dela_sec3.pdf,203114.182935,2682192.53055
-0,NJ,Camden,Pyne Point Marina Serv,North 7th Street,856-966-1352,Paved Ramp,Fee,Fee: $10 a day,N,N,Delaware River, , , ,http://www.jerseymarinas.com/DelawareBoatRampMap.html,238011.173836,2707719.28658
-0,NJ,Camden,Pennsauken/Delair Ramp,Derousse Ave,609-984-1401,No Ramp,Fee,Need permit,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,247391.482503,2720612.45928
-0,PA,Philadelphia,Frankford Aresenal,56 hundred block of Tacony Street,717-626-0228,Paved Ramp,No Fee,Unlimited Horsepower,N,N,Delaware River,Y,Y,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,257057.528788,2723021.01319
-0,NJ,Burlington,Palmyra Cove Nature Park,Off of Delaware River Trail, ,No Ramp,No Fee,Private,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/ramp.htm,257830.053818,2726954.37147
-0,PA,Philadelphia,Tacony Access/Launch,Milnor Street & Princeton Ave,717-626-0228,Paved Ramp,No Fee,Unlimited Horsepower,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,261805.479266,2729380.62187
-0,PA,Philadelphia,City of Phlia Boat Ramp,Linden Ave,215-633-7200,Paved Ramp,No Fee,Unlimited Horsepower,Y,Fish Hatchery,Delaware River,Y,Y,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,269866.74103,2740587.33174
-0,PA,Philadelphia,East Park Canoe House,East Fairmount Park, ,Paved Ramp,No Fee,"Mainly for Kayaks & Canoes, several locations here",Y,East Fairmount Park,Schuylkill River,Y,Y,Y,http://www.paddling.net/launches/showLaunch.html?lid=7558,250926.480683,2684584.12124
-0,PA,Philadelphia,Walnut Street Landing,Scuhylkill River Park,215-729-5281,No Ramp,No Fee,Roadside Parking,Y,Scuhylkill River Park,Schuylkill River,N,N,N,http://www.phillyriverinfo.org/WICLibrary/Boating%20Website.pdf,235696.768688,2688603.94817
-0,PA,Philadelphia,Bartram's Garden,Bartram's Garden, ,Paved Ramp,No Fee,Pedestrian and kayaks,Y,Bartram's Garden,Schuylkill River,Y,Y,Y,http://www.bartramsgarden.org/,228883.033628,2681205.93147
-0,PA,Montgomery,Flat Rock Park,Flat Rock Park, ,Paved Ramp,Fee,Canoe Club?,N,N,Schuylkill River,Y,Y,Y,http://www.philacanoe.org/locations/schuylkill-river-flat-rock-park,268955.809125,2667250.06831
-0,PA,Philadelphia,Tugboat House,"Belomt Landing, MLK Drive", ,Undetermind,Undetermind,"Private, Historic",Y,West Fairmount Park,Schuylkill River,N,Y,Y, ,246080.909993,2681841.27108
-0,PA,Philadelphia,Boat House Row,East Fairmount Park, ,No Ramp,No Fee,Private,Y,East Fairmount Park,Schuylkill River,N,Y,Y,http://www.boathouserow.org/,242051.64771,2686725.02968
-0,PA,Philadelphia,Lloyd Hall,East Fairmount Park, ,No Ramp,No Fee,Private,Y,East Fairmount Park,Schuylkill River,N,Y,Y,http://www.phila.gov/findrec/RecCenterDetails.aspx?ID=927,241979.668196,2687115.3934
+0,PA,Philadelphia,Fort Mifflin, , ,Ramp,No Fee,Not directly on PPR Property,N,N,Delaware River,N,Y,Y,http://www.phillyriverinfo.org/WICLibrary/Boating%20Website.pdf,39.8755368427,-75.2093669816
+0,NJ,West Deptford,W. Deptford Munic. Ramp,End of Center Street,856-845-4004,Paved Ramp,No Fee, ,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,39.8772484795,-75.17965608
+0,NJ,Gloucester,Riverwinds Point,Riverwinds Dr, ,No Ramp,No Fee, ,N,N,Delaware River,N,N,Y,http://fishandboat.com/watertrails/dela_tidal/tidal_dela_sec3.pdf,39.8627014372,-75.2073464734
+0,NJ,Camden,Pyne Point Marina Serv,North 7th Street,856-966-1352,Paved Ramp,Fee,Fee: $10 a day,N,N,Delaware River, , , ,http://www.jerseymarinas.com/DelawareBoatRampMap.html,39.9564021446,-75.1127442499
+0,NJ,Camden,Pennsauken/Delair Ramp,Derousse Ave,609-984-1401,No Ramp,Fee,Need permit,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,39.9810743672,-75.0657574216
+0,PA,Philadelphia,Frankford Aresenal,56 hundred block of Tacony Street,717-626-0228,Paved Ramp,No Fee,Unlimited Horsepower,N,N,Delaware River,Y,Y,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,40.007395255,-75.0561147547
+0,NJ,Burlington,Palmyra Cove Nature Park,Off of Delaware River Trail, ,No Ramp,No Fee,Private,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/ramp.htm,40.0091847541,-75.0419956016
+0,PA,Philadelphia,Tacony Access/Launch,Milnor Street & Princeton Ave,717-626-0228,Paved Ramp,No Fee,Unlimited Horsepower,N,N,Delaware River,Y,N,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,40.0198880837,-75.032901733
+0,PA,Philadelphia,City of Phlia Boat Ramp,Linden Ave,215-633-7200,Paved Ramp,No Fee,Unlimited Horsepower,Y,Fish Hatchery,Delaware River,Y,Y,Y,http://www.jerseymarinas.com/DelawareBoatRampMap.html,40.0410530887,-74.9920097222
+0,PA,Philadelphia,East Park Canoe House,East Fairmount Park, ,Paved Ramp,No Fee,"Mainly for Kayaks & Canoes, several locations here",Y,East Fairmount Park,Schuylkill River,Y,Y,Y,http://www.paddling.net/launches/showLaunch.html?lid=7558,39.9937080727,-75.1939017828
+0,PA,Philadelphia,Walnut Street Landing,Scuhylkill River Park,215-729-5281,No Ramp,No Fee,Roadside Parking,Y,Scuhylkill River Park,Schuylkill River,N,N,N,http://www.phillyriverinfo.org/WICLibrary/Boating%20Website.pdf,39.9515980644,-75.1811417768
+0,PA,Philadelphia,Bartram's Garden,Bartram's Garden, ,Paved Ramp,No Fee,Pedestrian and kayaks,Y,Bartram's Garden,Schuylkill River,Y,Y,Y,http://www.bartramsgarden.org/,39.9334888789,-75.2082178294
+0,PA,Montgomery,Flat Rock Park,Flat Rock Park, ,Paved Ramp,Fee,Canoe Club?,N,N,Schuylkill River,Y,Y,Y,http://www.philacanoe.org/locations/schuylkill-river-flat-rock-park,40.0445414249,-75.2539247621
+0,PA,Philadelphia,Tugboat House,"Belomt Landing, MLK Drive", ,Undetermind,Undetermind,"Private, Historic",Y,West Fairmount Park,Schuylkill River,N,Y,Y, ,39.980629397,-75.20418558
+0,PA,Philadelphia,Boat House Row,East Fairmount Park, ,No Ramp,No Fee,Private,Y,East Fairmount Park,Schuylkill River,N,Y,Y,http://www.boathouserow.org/,39.9691854808,-75.1871830592
+0,PA,Philadelphia,Lloyd Hall,East Fairmount Park, ,No Ramp,No Fee,Private,Y,East Fairmount Park,Schuylkill River,N,Y,Y,http://www.phila.gov/findrec/RecCenterDetails.aspx?ID=927,39.9689568692,-75.1857983749

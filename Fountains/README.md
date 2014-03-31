@@ -16,31 +16,11 @@ Points indicating the location of fountains that are owned or maintained by Phil
 
 | Field | Description  
 | ----- | :----------:  
-| JOIN_COUNT |  
-| XCOORD |  
-| YCOORD |  
-| ZCOORD |  
-| GPSDATE |  
-| MATERIALS |  
-| MATERIALS2 |  
-| FREESTND |  
-| TYPE |  
-| ACTIVE |  
-| INSCRIPT |  
-| LIGHTS |  
-| PLAQUE |  
-| ARTSCULPT |  
-| HEIGHT |  
-| WIDTH |  
-| CONDITION |  
-| PHOTO |  
-| UPDTDBY |  
-| DATEUPDTD |  
-| COMMENTS |  
-| ID |  
-| IMGFOLDER |  
-| NAME |  
-| PARK |  
+| MATERIALS | construction material of the fountain
+| MATERIALS2 | secondary construction material of the fountain
+| FREESTND | Is the fountain freestanding? 0=no, 1=yes
+| NAME | Name of the fountain
+| PARK | Park where the fountain is located 
 
 
 ### Credits  

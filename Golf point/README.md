@@ -16,11 +16,11 @@ Points were determined by the PPR Assets layer created by the Philadelphia Parks
 
 | Field | Description  
 | ----- | :----------:  
-| NAME |  
-| DISTRICT |  
-| ADDRESS |  
-| ZIPCODE |  
-| WEBSITE |  
+| NAME | Name: Name of the asset (golf or driving range) 
+| DISTRICT | District: District which the asset lies within. Applies to PPR Districts 
+| ADDRESS | Address: The address of the golf or driving range 
+| ZIPCODE | The zipcode of the golf or driving range  
+| WEBSITE | The link to the Philadelphia Parks and Recreation website. 
 
 
 ### Credits  

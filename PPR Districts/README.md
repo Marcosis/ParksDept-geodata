@@ -16,13 +16,8 @@ Polygon boundaries of PPR's operational districts as established by PPR's GIS st
 
 | Field | Description  
 | ----- | :----------:  
-| FID |  
-| Shape |  
-| DISTRICT |  
-| SHAPE_LENG |  
-| REGION |  
-| SHAPE_AREA |  
-| SHAPE_LEN |  
+| DISTRICT | District number/identifier
+| REGION | 1 is north region, 2 is south region
 
 
 ### Credits  

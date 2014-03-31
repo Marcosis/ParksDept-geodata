@@ -16,11 +16,11 @@ Points were determined by the PPR Assets layer created by the Philadelphia Parks
 
 | Field | Description  
 | ----- | :----------:  
-| ADDRESS |  
-| DISTRICT |  
-| ZIPCODES |  
-| ICE_RINK |  
-| WEBSITE |  
+| ADDRESS | The address of the ice rink
+| DISTRICT | District which the asset lies within. Applies to PPR Districts
+| ZIPCODES | The zipcode of the ice rink 
+| ICE_RINK |  Name of the Ice Rink 
+| WEBSITE | The link to the Philadelphia Parks and Recreation website. 
 
 
 ### Credits  

@@ -16,16 +16,12 @@ Points indicating the locations of Older Adult Centers in PPR buildings and/or s
 
 | Field | Description  
 | ----- | :----------:  
-| ARC_STREET |  
-| CENTER |  
-| ADDRESS |  
-| CITY |  
-| STATE |  
-| ZIPCODE |  
-| TYPE |  
-| PHONE |  
-| WEB |  
-| SITE |  
+| CENTER | Name of feature
+| ADDRESS | Address of feature 
+| TYPE | Type of Older Adult Center
+| PHONE | Phone number of center
+| WEB | url wherre more info can be found
+| SITE | PPR site name of location where center is 
 
 
 ### Credits  
