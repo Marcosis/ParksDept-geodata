@@ -1,1 +1,1 @@
-This is the future location of Parks and Recreation geodata.
+This repository contains the public Parks and Recreation geodata.
