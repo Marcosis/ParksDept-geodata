@@ -16,41 +16,68 @@ Created from the original PPR_Buildings, PPR_Assets, PPR_Boundaries shapefiles (
 
 | Field | Description  
 | ----- | :----------:  
-| FID |  
-| Shape |  
-| ASSET_NAME |  
-| SITE_NAME |  
-| CHILD_OF |  
-| ADDRESS |  
-| TYPE |  
-| USE |  
-| DESCRIPTIO |  
-| SQ_FEET |  
-| ACREAGE |  
-| FIELDS |  
-| COURTS |  
-| PLAY_EQUIP |  
-| SPRAY_GROU |  
-| POOL |  
-| FORMER_DEP |  
-| MAIN_BY |  
-| OWNER |  
-| CPO_OWNER |  
-| OPA_OWNER |  
-| PWD_OWNER |  
-| OTHER_OWNE |  
-| OPM |  
-| COUNCIL_DI |  
-| DISTRICT |  
-| ZIPCODE |  
-| ALLIAS |  
-| CHRONOLOGY |  
-| NOTES |  
-| DATE_EDITE |  
-| EDITED_BY |  
+| ASSET_NAME | Name of building, structure, or land asset. All records have an entry. 
+| SITE_NAME | Name in which multiple asset names at a single facility may be grouped. This field could also be seen as the polygon which lies inside of a facility polygon. For example, the Vogt recreation center building falls within the Vogt Recreation Center land area. All records have an entry. 
+| CHILD_OF | Site in which the "Site Name" Field record lies within. Not all records have this entry. 
+| ADDRESS | The address of the park or recreation center. Not all records have this entry. 
+| TYPE | Classification of Asset by land, building, or structure. All records have an entry. 
+| USE | The primary use of the Asset. All records have an entry. 
+| DESCRIPTIO | Further description of use of the Asset. Not all fields have a description. 
+| SQ_FEET | Sq foot of a building or structure Asset. Only building or structure records have this entry. 
+| ACREAGE | Acreage of a land Asset. Only land (facility) Assets records have this entry. 
+| FIELDS | The number of athletic fields on an asset. Categorized as single, multiple, or none. Does not include Ice Rinks. All records have an entry. 
+| COURTS | The number of athletic courts on an asset. Categorized as single, multiple, or none. Does not include Ice Rinks. All records have an entry. 
+| PLAY_EQUIP | Classified by 2-5, 5-12, Both or none if the asset has playground equipment. The numbers are representing the age groups which the equipment is desired for. All records have an entry. 
+| SPRAY_GROU | Classified by single or none, This field represents if an asset contains a spray ground or not. All records have an entry. 
+| POOL | Classified by indoor, outdoor, or none. This field represents if an asset contains a pool or not. All records have an entry. 
+| FORMER_DEP | The former department of Philadelphia Parks and Recreation, Dept of Recreation or Fairmount Park, who handled the Asset before the merge of the departments. Entries include Fairmount Park, Dept of Recreation, or Both-PPR. Both-PPR states that the property was aquired during or after the merge. All records have an entry. 
+| MAIN_BY | The department principally responsible for building or land structural maintenance. All records have an entry. 
+| OWNER | Owner of the Asset. Classified as PPR, City, Other, ?, or School District. Other is a category that is not recommended for use. All records have an entry. 
+| CPO_OWNER | Additional owner information provided from a CPO table. Not all records have this entry. 
+| OPA_OWNER | Additional owner information provided from the OPA web source. http://opa.phila.gov/opa.apps/Search/SearchForm.aspx?url=search Not all records have this entry. 
+| PWD_OWNER | Additional owner information provided from the PWD Parcels layer. Not all records have this entry. 
+| OTHER_OWNE | Additional owner information. Not all records have this entry.  
+| COUNCIL_DI | Council district which the Asset lies within. All records have an entry. 
+| DISTRICT | Philadelphia Parks and Recreation district which the Asset lies within. All records have an entry. 
+| ZIPCODE | Philadelphia Zipcode which the Asset falls within. All records have an entry. 
+| ALLIAS | Another name that an Asset my be refered to. Not all records have this entry. 
+| CHRONOLOGY | Year in which Asset was built or founded. 
+| NOTES | Additional field to apply any notes about asset that can not be categorized in any other field. 
+| DATE_EDITE | Date in which the Asset was last edited. This field was created to ensure data accruacy and updates needed or varified. All records have an entry. 
+| EDITED_BY | Data editor name from Philadelphia Parks and Recreation. Domains include: Vanessa Miller, Regina Stine, Nora Dougherty, and Andy Viren. All records have an entry. 
 | ICE_RINKS |  
 | SHAPE_AREA |  
 | SHAPE_LEN |  
+
+
+Domains: The domain information can be found within the geodatabase of the PPR_Assets_2012 feature class.
+
+Use:B1 Athletic, B2 Barn, B3 Batting Cage, B52 Boathouse, B4 Community Park, B6 Concessiongs\Retal\Cafe, B47 Dugout, B8 Environmental Education Center, B53 Farm, B10 Garage\Maintenance\Storage, B56 Gardens, B46 Golf, B11 Greenhouse\Nursary, B51 Guard Box, B13 Historic House, B14 Ice Rink, B15 Linear Park\Parkway, B16 Lot\Breezeway\Island, B17 Metropolitan Park, B18 Mini Park, B55 Multi-Use Area, B38 Multi-Use Bldg, B20 Museum, B21 Neighborhood Park, B22 Older Adult Center, B23 Other (Not Recommended), B25 Pavilion\Shelter, B27 Pool, B49 Pumping Station, B28 Recreation Bldg, B29 Recreation Center, B30 Recreation Site, B32 Regional\Watershed Park, B33 Restrooms, B34 Shed, B37 Square\Plaza, B38 Stables, B39 Stage\Stands, B40 Statue\Monument\Sculpture, B43 Watershed\Conservation Park, B54 Weigh Station, B44 Youth & Tot\Play Areas, B45 Zoo Habitat
+
+Description: C7 Baseball Field, C11 Bocce Courts, C10 Disc Golf, C1 Golf Course, C2 Golf Driving Range, C3 Historic Building, C6 Historic Structure, C9 Hockey Rink, C4 Multi-Use Bldg, C8 Multi-Use Sports Field, C14 Performance Venue, C12 Recycling Center, C5 Regional\Watershed, C13 Tennis Courts
+
+Type: G1 Building, G2 Land, G3 Structure
+
+Former Department: J1 Fairmount Park, J2 Dept of Recreation, J3 Both - PPR
+
+Owner: I1 PPR, I2 City, I3 Other (Not Recommended), I4 ?, I5 School District
+
+Courts: D1 Multiple, D2 Single, D3 None
+
+Fields: A1 Multiple, A2 Single, A3 None
+
+Play Equipment: E1 2-5, E2 5-12, E3 Both, E4 None
+
+Ice Rinks: M1 None, M2 Single
+
+Pool: F2 Indoor, F3 Outdoor, F4 None
+
+Spray Grounds: L1 Single, L2 None
+
+Edited By: K1 Nora Dougherty, K2 Vanessa Miller, K3 Regina Stine, K4 Andy Viren
+
+
+
 
 
 ### Credits  

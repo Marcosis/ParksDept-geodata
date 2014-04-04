@@ -16,23 +16,22 @@ Created from the sources listed below this layer displays boat launches along th
 
 | Field | Description  
 | ----- | :----------:  
-| ID |  
-| STATE |  
-| COUNTY |  
-| NAME |  
-| LOCATION |  
-| PHONE |  
-| TYPE |  
-| FEES |  
-| NOTES |  
-| PARK_PROP |  
-| PARK |  
-| WATER_BODY |  
-| FISHING |  
-| DOCK |  
-| PARKING |  
-| MORE_INFO |  
-
+| STATE | either NJ or PA
+| COUNTY | County in which boat launch relies in 
+| NAME | of the boat launch 
+| LOCATION | potential street name or location 
+| PHONE | phone number 
+| TYPE | Ramp, no ramp, etc. 
+| FEES | No Fee or Fee  
+| NOTES | any notes directly related to that boat launch, may say private here or extra information regarding fees, type of boat launch, etc. 
+| PARK_PROP | Y or N if Philadelphia Parks and Recreaiton property or not 
+| PARK | PPR property or N 
+| WATER_BODY | Delaware or Schuylkill River 
+| FISHING | Y or N 
+| DOCK | Y or N 
+| PARKING | Y or N 
+| MORE_INFO | website
+ 
 
 ### Credits  
 

@@ -15,16 +15,11 @@ Data Development:Combined all trail systems throughout Philadelphia via merging.
 
 | Field | Description  
 | ----- | :----------:  
-| FID |  
-| Shape |  
-| TYPE |  
-| MATERIAL |  
-| WIDTH |  
-| Trl_Length |  
-| Limits |  
-| Type2 |  
-| name |  
-| Park_name |  
+| TYPE | type of trail 
+| MATERIAL | the trail system material 
+| WIDTH | trail width 
+| name | name of trail (limited field) 
+| Park_name | the name of the park in which the trail resides 
 
 
 ### Credits  
