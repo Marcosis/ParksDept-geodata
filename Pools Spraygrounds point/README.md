@@ -22,17 +22,10 @@ This point layer file contains pools and spray grounds owned and maintained by t
 | LINK | The web source link that connects to the particular facility webpage via the Parks and Recreation webpage 
 
 ### Credits  
-
-Vanessa Miller, GIS Intern, vanessa.miller.city@gmail.com  
+Nora K. Dougherty, Geospatial Analyst, nora.dougherty@phila.gov
 Philadelphia Parks and Recreation  
 1515 Arch Street, 10 Fl, Philadelphia, PA  19102-1583  
-215-683-0236  
-  
-  
-For further contact information contact:   
-Nora Dougherty at Philadelphia Parks and Recreation  
-nora.dougherty@phila.gov  
-215-683-0235
+215.683.0235 
 
 ### Use Limitations  
 

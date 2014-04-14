@@ -22,11 +22,10 @@ Polygon boundaries of PPR's operational districts as established by PPR's GIS st
 
 ### Credits  
 
-Philadelphia Parks & Recreation, Nora Dougherty  
-1515 Arch Street, 13 Fl, Philadelphia, PA  19102  
-215-683-0235  
-nora.dougherty@phila.gov  
-
+Nora K. Dougherty, Geospatial Analyst, nora.dougherty@phila.gov
+Philadelphia Parks and Recreation  
+1515 Arch Street, 10 Fl, Philadelphia, PA  19102-1583  
+215.683.0235 
 
 ### Use Limitations  
 

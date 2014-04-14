@@ -26,7 +26,10 @@ Points indicating the locations of Older Adult Centers in PPR buildings and/or s
 
 ### Credits  
 
-Philadelphia Parks & Recreation Nora Dougherty, Geospatial Analyst 1515 Arch Street, 10th Floor, Philadelphia, PA 19102-1587   
+Nora K. Dougherty, Geospatial Analyst, nora.dougherty@phila.gov
+Philadelphia Parks and Recreation  
+1515 Arch Street, 10 Fl, Philadelphia, PA  19102-1583  
+215.683.0235 
   
 
 
